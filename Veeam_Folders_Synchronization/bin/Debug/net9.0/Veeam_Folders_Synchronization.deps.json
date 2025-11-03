@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Veeam_Folders_Synchronization/1.0.0": {
+        "runtime": {
+          "Veeam_Folders_Synchronization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veeam_Folders_Synchronization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

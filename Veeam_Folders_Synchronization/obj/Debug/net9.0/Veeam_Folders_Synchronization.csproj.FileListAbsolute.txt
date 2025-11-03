@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\bin\Debug\net9.0\Veeam_Folders_Synchronization.exe
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\bin\Debug\net9.0\Veeam_Folders_Synchronization.deps.json
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\bin\Debug\net9.0\Veeam_Folders_Synchronization.runtimeconfig.json
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\bin\Debug\net9.0\Veeam_Folders_Synchronization.dll
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\bin\Debug\net9.0\Veeam_Folders_Synchronization.pdb
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.AssemblyInfo.cs
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.dll
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\refint\Veeam_Folders_Synchronization.dll
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.pdb
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\Veeam_Folders_Synchronization.genruntimeconfig.cache
+C:\Users\PC\Desktop\Veeam\Veeam_Folders_Synchronization\Veeam_Folders_Synchronization\obj\Debug\net9.0\ref\Veeam_Folders_Synchronization.dll
